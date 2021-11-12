@@ -13,4 +13,4 @@ base64后的搜索语句即使用fofa输入你想要的关键词搜索后查看u
 如：
 python3 fofa.py 123test@xx.com xxxxxxxx InRvbWNhdCIgJiYgY291bnRyeT0iQ04i 10000
 
-![Image text](https://github.com/einzbernnn/fofa-/blob/main/7.png)
+输出两种类型的txt文件，一个为ip和域名不带http和https的，另一个带http:// 和https://
